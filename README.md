@@ -5,7 +5,9 @@
 - 🖋️ deisgner
 - 👷‍♂️ handyman
 - 🧗 athlete
-###connect with me (clickable icons for linkedin, website, and insta)
+
+### connect with me (clickable icons for linkedin, website, and insta)
+
 
 ## Experience
 ### Certificate course in Software Development
