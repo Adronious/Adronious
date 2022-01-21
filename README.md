@@ -7,6 +7,7 @@
 - 🧗 athlete
 
 ### connect with me (clickable icons for linkedin, website, and insta)
+[![socials-02](https://user-images.githubusercontent.com/89273210/150442092-5d8abf6d-ce34-462f-8862-ec5eaade0792.png)][linkedin]
 
 
 ## Experience
