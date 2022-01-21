@@ -23,4 +23,4 @@
 [website]:https://adronious.github.io/Adronious/
 [linkedin]:https://www.linkedin.com/in/adrian-encalada/
 [photosite]:https://www.encaVision.com/
-[instagram]:https:://www.instagram.com/enca_vision/
+[instagram]:https://www.instagram.com/enca_vision/
