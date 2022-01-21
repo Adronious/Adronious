@@ -8,6 +8,7 @@
 
 ### connect with me (clickable icons for linkedin, website, and insta)
 [![socials-02](https://user-images.githubusercontent.com/89273210/150442092-5d8abf6d-ce34-462f-8862-ec5eaade0792.png)][linkedin]
+[![socials-03](https://user-images.githubusercontent.com/89273210/150442101-f8d34f71-f6de-47b0-be2e-233f7ca7f487.png)][instagram]
 
 
 ## Experience
