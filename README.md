@@ -12,10 +12,13 @@
 [![socials-01](https://user-images.githubusercontent.com/89273210/150442104-1e2762d2-030d-48c0-8260-5bc420d476db.png)][photosite]
 
 ## Experience
-### Certificate course in Software Development covering
-  - ☕ javaScript
+### Certificate course in Software Development covering:
+  - ☕ JavaScript
   - 🖥️ C++
+  - 🧃 XML
   - 📱 Android Studio
+  - UML, nerd(engineering concepts), kotlin, and more
+  - Basically I learned how to learn new languages
 
 
 
