@@ -1,4 +1,4 @@
-# Hello World! I'm Adrian - aka [Adronious][portfolio] <-(portfolio)
+# Hello World! I'm Adrian - aka [Adronious][portfolio]
 
 ### I am a creative, excited to be getting into coding
 - 📷 photographer
